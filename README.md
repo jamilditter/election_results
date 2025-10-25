@@ -72,7 +72,7 @@ SOFTWARE.
 ## Authors
 
 - Cameron Mangione - [@CameronMangione](https://github.com/CameronMangione)
-- Jamil Ditter - [@jamilditter]
+- Jamil Ditter - [@jamilditter](https://github.com/JamilDitter)
 
 ---
 
