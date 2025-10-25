@@ -9,8 +9,8 @@
 
 
 
-- **Objective:** Answer the question of whether school performance is predicted by socioeconomic factors.
-- **Domain:** Education
+- **Objective:** 
+- **Domain:** Politics
 - **Key Techniques:** Regrerssion, Exploratory Data Analysis.
 
 ---
