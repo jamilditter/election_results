@@ -73,6 +73,7 @@ SOFTWARE.
 
 - Cameron Mangione - [@CameronMangione](https://github.com/CameronMangione)
 - Jamil Ditter - [@jamilditter](https://github.com/JamilDitter)
+- Alex Song - [@AlexSong-Lab](https://github.com/alexsong-lab)
 
 ---
 
