@@ -26,13 +26,13 @@ Using the data science model, our group aims to create a model using educational
 
 ## Data
 
-- **Source:**: Bureau, US Census. “Voting and Registration in the Election of November 2024.” Census.Gov, US Census, 24 Apr. 2025, www.census.gov/data/tables/time-series/demo/voting-and-registration/p20-587.html. 
+- **Source:**: Voting registration data: Bureau, US Census. “Voting and Registration in the Election of November 2024.” Census.Gov, US Census, 24 Apr. 2025, www.census.gov/data/tables/time-series/demo/voting-and-registration/p20-587.html. 
 
-Bureau, US Census. “CPS Historical Time Series Tables.” Census.Gov, US Census, 25 Aug. 2025, www.census.gov/data/tables/time-series/demo/educational-attainment/cps-historical-time-series.html. 
+Educational Attainment Data: Bureau, US Census. “CPS Historical Time Series Tables.” Census.Gov, US Census, 25 Aug. 2025, www.census.gov/data/tables/time-series/demo/educational-attainment/cps-historical-time-series.html. 
 
-Economic Data, Federal Reserve. “Federal Reserve Economic Data.” MEDIAN HH INCOME BY STATE 1984 -2023 (Updated Periodically) - FRED\ALFRED - St. Louis Fed, FRED, 2025, fredaccount.stlouisfed.org/public/datalist/8534/. 
+Median income by state data: Economic Data, Federal Reserve. “Federal Reserve Economic Data.” MEDIAN HH INCOME BY STATE 1984 -2023 (Updated Periodically) - FRED\ALFRED - St. Louis Fed, FRED, 2025, fredaccount.stlouisfed.org/public/datalist/8534/. 
 
-Dataverse, Harvard. “1976-2020-President.TAB - U.S. Presidential Elections.” Harvard Dataverse, 2025, dataverse.harvard.edu/file.xhtml?fileId=10244938&version=8.0. 
+Overall US election data: Dataverse, Harvard. “1976-2020-President.TAB - U.S. Presidential Elections.” Harvard Dataverse, 2025, dataverse.harvard.edu/file.xhtml?fileId=10244938&version=8.0. 
 
 Download center, StatsAmerica. StatsAmerica Download Center, 2025, www.statsamerica.org/downloads/default.aspx. 
 
