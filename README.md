@@ -32,7 +32,7 @@ Educational Attainment Data: Bureau, US Census. “CPS Historical Time Series Ta
 
 Median income by state data: Economic Data, Federal Reserve. “Federal Reserve Economic Data.” MEDIAN HH INCOME BY STATE 1984 -2023 (Updated Periodically) - FRED\ALFRED - St. Louis Fed, FRED, 2025, fredaccount.stlouisfed.org/public/datalist/8534/. 
 
-Overall US election data: Dataverse, Harvard. “1976-2020-President.TAB - U.S. Presidential Elections.” Harvard Dataverse, 2025, dataverse.harvard.edu/file.xhtml?fileId=10244938&version=8.0. 
+Overall US election data: MIT Election Data and Science Lab, 2017, "U.S. President 1976–2020", https://doi.org/10.7910/DVN/42MVDX, Harvard Dataverse, V8, UNF:6:F0opd1IRbeYI9QyVfzglUw== [fileUNF]
 
 Download center, StatsAmerica. StatsAmerica Download Center, 2025, www.statsamerica.org/downloads/default.aspx. 
 
