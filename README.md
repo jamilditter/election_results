@@ -1,14 +1,13 @@
 # election_results
 
 > ## Purpose 
-
-Using the data science model, our group aims to create a model using educational attainment (broken down into multiple categories), demographic factors containing voting participation rates, age, unemployment, and median income to try and predict US Presidential election results. 
+The primary objective of this project was to determine whether socioeconomic or demographic variables could be used effectively to predict state-level presidential election outcomes. The goal was to build a data science model capable of predicting US Presidential election results based on factors such as educational attainment, demographic variables, voting participation rates, age, unemployment, and median income. Analyzing factors that impact elections is important as it helps track trends in socioeconomic conditions and education levels in the US, which can influence the country's development. Furthermore, studying US presidential elections provides an opportunity to identify trends in voting behavior and electoral preferences.
 
 ## Project Overview
 
-- **Objective:**: Create a model that can predcit US Presidential election results based on demographic and socioeconomic factors.
+- **Objective:**: The project aimed to create a model to predict US Presidential election results at the national level and spanning the seven presidential elections that occurred between 2000 and 2024, specifically to predict state-level outcomes using socioeconomic and demographic variables.
 - **Domain:** Politics
-- **Key Techniques:** Regrerssion, Exploratory Data Analysis.
+- **Key Techniques:** Random Forest Classificatiom, Regrerssion, Exploratory Data Analysis.
 
 ---
 
@@ -39,6 +38,7 @@ Download center, StatsAmerica. StatsAmerica Download Center, 2025, www.statsamer
 Economic Data, Federal Reserve. “Federal Reserve Economic Data.” MEDIAN HH INCOME BY STATE 1984 -2023 (Updated Periodically) - FRED\ALFRED - St. Louis Fed, FRED, 2025, fredaccount.stlouisfed.org/public/datalist/8534/. 
 
 Statista, Statista. “Educational Attainment Distribution in the United States from 1960 to 2022 .” Statista, 2025, www.statista.com/statistics/184260/educational-attainment-in-the-us/. 
+
 - **Description:** These data sources were used to put together our merged + clean deataset that we used for our analysis.
 - **License:** MIT License
 
@@ -65,14 +65,14 @@ SOFTWARE.
 ---
 
 ## Analysis
-
+The methodology involved gathering nine demographic and economic factors into datasets sorted by year and state, which were compiled from ACS, BLS, LAUS, FRED, and iPUMS, then merged with voting data from the MIT Election Data and Science Lab, covering elections from 2000 to 2024. Exploratory analysis included computing correlation matrices and generating pairwise scatterplots to assess linear relationships among predictors and outcomes. For the random forest classification model, the data was split using an 80-20 training and testing split, and the model used a dummy variable to predict a Democratic victory. For the linear regression analysis, single-predictor models were created first. This was followed by the creation of two multiple linear regression models using all factors: one predicting Democrat vote percentage and one predicting Republican vote percentage. Reduced linear models were developed by removing predictors that were not statistically significant (p-values less than 0.05), and coefficients in these reduced models were standardized to determine the relative impact of predictors. Swing-state specific models were also developed for Wisconsin, Pennsylvania, Ohio, Michigan, and Florida.
 
 
 
 ---
 
 ## Results
-
+The national random forest classification model achieved an overall accuracy score of 83.3%. The model identified the three most important predictors as voter participation, unemployment rate, and median income. In terms of precision, the model was more accurate when predicting Democratic wins (87.5%) compared to Republican wins (80%). However, random forest models developed for individual swing states or the combined five swing states only achieved an accuracy of 50%. For the multiple linear regression models, the Democrat model had an R-squared value of 0.445, and the Republican model had an R-squared value of 0.403. Across all models, the findings indicated that median income and unemployment rate were the strongest predictors of how a state would vote. In the swing-state regression models, the full Republican model had an R-squared value of 0.691, while the full Democrat model had a value of 0.656. The national multiple linear regression model produced an error rate generally between approximately ±5-7% from the true voting percentage total for each group on average.
 
 
 
