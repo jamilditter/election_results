@@ -25,7 +25,8 @@ The primary objective of this project was to determine whether socioeconomic or 
 
 ## Data
 
-- **Source:**: Voting registration data: Bureau, US Census. “Voting and Registration in the Election of November 2024.” Census.Gov, US Census, 24 Apr. 2025, www.census.gov/data/tables/time-series/demo/voting-and-registration/p20-587.html. 
+- **Source:**
+Voting registration data: Bureau, US Census. “Voting and Registration in the Election of November 2024.” Census.Gov, US Census, 24 Apr. 2025, www.census.gov/data/tables/time-series/demo/voting-and-registration/p20-587.html. 
 
 Educational Attainment Data: Bureau, US Census. “CPS Historical Time Series Tables.” Census.Gov, US Census, 25 Aug. 2025, www.census.gov/data/tables/time-series/demo/educational-attainment/cps-historical-time-series.html. 
 
