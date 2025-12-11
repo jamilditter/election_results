@@ -38,6 +38,8 @@ Download center, StatsAmerica. StatsAmerica Download Center, 2025, www.statsamer
 
 Economic Data, Federal Reserve. “Federal Reserve Economic Data.” MEDIAN HH INCOME BY STATE 1984 -2023 (Updated Periodically) - FRED\ALFRED - St. Louis Fed, FRED, 2025, fredaccount.stlouisfed.org/public/datalist/8534/. 
 
+MIT Election Data and Science Lab, 2018, "County Presidential Election Returns 2000-2024", https://doi.org/10.7910/DVN/VOQCHQ, Harvard Dataverse, V16, UNF:6:NKTy7eW9uEWX4imXpPxf5g== [fileUNF]
+
 Statista, Statista. “Educational Attainment Distribution in the United States from 1960 to 2022 .” Statista, 2025, www.statista.com/statistics/184260/educational-attainment-in-the-us/. 
 
 - **Description:** These data sources were used to put together our merged + clean deataset that we used for our analysis.
